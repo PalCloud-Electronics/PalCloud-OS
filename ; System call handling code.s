@@ -65,4 +65,6 @@ syscall_1:
     ret
 
 invalid_syscall:
-    ;
+    ; Handle Invalid System Call
+    ; ...
+    ret
